@@ -1,5 +1,5 @@
 body{
-    background-image: url("imgCSS/ladrillos.jpg");
+    background-image: url("https://www.google.es/url?sa=i&url=https%3A%2F%2Fes.pikbest.com%2Fbackgrounds%2Fbrick-wall-texture-background-light-colored-surface-a-captivating-and_9922613.html&psig=AOvVaw2YPVowmXsPWMATfLxfH7vP&ust=1747073309071000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNChr7KBnI0DFQAAAAAdAAAAABAE");
     background-attachment: fixed;
     text-align: center;
 }
@@ -7,7 +7,7 @@ body{
 div:first-of-type{
     box-sizing: border-box;
     padding-bottom: 200px;
-    background-image: url("imgCSS/Hogwarts.webp");
+    background-image: url("https://www.google.es/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fhogwarts-logo%2F&psig=AOvVaw1_Pe2FtQZRbqt_uXEuBYp9&ust=1747073125828000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOD1uNuAnI0DFQAAAAAdAAAAABAE");
     background-repeat: no-repeat;
     background-size: 150px;
     background-position: center;
@@ -15,7 +15,7 @@ div:first-of-type{
 
 div:not(:first-of-type){
     box-sizing: border-box;
-    background-image: url("imgCSS/madera.jpg");
+    background-image: url("https://www.google.es/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Ffotos%2Ftextura-madera-oscura&psig=AOvVaw31pFHXMAwhL213ujbI3X7f&ust=1747073174414000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODJ1fKAnI0DFQAAAAAdAAAAABAE");
     width: 300px;
     height: 270px;
     margin: 2%;
@@ -48,7 +48,7 @@ article{
 }
 
 h2 span::before{
-    content: url("imgCSS/mano.png");
+    content: url("https://www.google.es/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Fdedo-indice-hacia-la-derecha%3Fimage_type%3Dvector&psig=AOvVaw1PjkmPJV6SvmxvdbvYiI5Q&ust=1747073228824000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMijwIyBnI0DFQAAAAAdAAAAABAE");
 }
 
 div:not(:first-of-type)::first-letter, h2 span{
